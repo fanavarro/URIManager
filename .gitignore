@@ -1,0 +1,12 @@
+/target/
+.project
+.classpath
+.settings
+.springBeans
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
