@@ -16,7 +16,7 @@
 		<neo4j.version>3.5.7</neo4j.version>
 		<neo4j-java-driver.version>1.7.5</neo4j-java-driver.version>
 		<junit-jupiter.version>5.5.2</junit-jupiter.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 	</properties>
